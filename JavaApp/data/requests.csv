@@ -1,0 +1,29 @@
+Faculty,Purpose,Request - in order of preference (1st to last),Hours/week requested
+Faculty 01,grading,,10
+Faculty 02,grading,,5
+Faculty 03,grading,Student002 Student101,
+Faculty 04,grading,Student012,2.5
+Faculty 05,grading,Student020,5
+Faculty 06,grading,Student011,10
+Faculty 07,grading,,10
+Faculty 08,grading/research,,5
+Faculty 09,grading,Student018 Student014,10
+Faculty 10,research,Student022,
+Faculty 10,grading,Student012 Student017,
+Faculty 11,grading,Student017 Student018 Student102,5
+Faculty 12,grading,Student019  Student102,10
+Faculty 13,grading,Student008 Student018,10
+Faculty 14,grading,Student015,5
+Faculty 14,research,Student025,
+Faculty 15,grading,Student008 Student014 Student009,5
+Faculty 16,grading,Student005 Student006 Student011,5
+Faculty 17,grading,Student001,10
+Faculty 18,grading/research,Student004,5
+Faculty 18,research,Student025,
+Faculty 19,grading,Student019,
+Faculty 19,research,Student024,5
+Faculty 20,grading,,10
+Faculty 21,grading,Student013,10
+Faculty 22,grading,Student013,5
+Faculty 23,research,Student023 Student024,10
+Faculty 24,grading,Student006 Student019 Student014,5

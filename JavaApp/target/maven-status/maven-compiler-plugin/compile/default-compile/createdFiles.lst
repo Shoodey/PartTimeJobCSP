@@ -1,0 +1,15 @@
+com\aui\csps\App.class
+com\aui\entities\Faculty.class
+com\aui\loaders\Students.class
+com\aui\entities\Request.class
+com\aui\loaders\Grades.class
+com\aui\entities\Student.class
+com\aui\loaders\Requests.class
+com\aui\loaders\Loader.class
+com\aui\csps\Data.class
+com\aui\utility\Screen.class
+com\aui\loaders\Courses.class
+com\aui\entities\Course.class
+com\aui\entities\Grade.class
+com\aui\entities\Section.class
+com\aui\utility\DB.class
